@@ -12,6 +12,7 @@ Resources
 - [Dash to panel](https://github.com/home-sweet-gnome/dash-to-panel)
 - [Orchis theme](https://github.com/vinceliuice/Orchis-theme)
 - [Candy icons](https://github.com/EliverLara/candy-icons)
+- Font: AnkaCoder
 
 ### command line & bash programming
 
