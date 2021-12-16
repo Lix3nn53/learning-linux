@@ -37,3 +37,8 @@ Resources
 ### neofetch
 
 - neofetch --ascii_colors 6 --colors 2 7 7 2 7 7 --ascii ~/.config/neofetch/ascii/ahegao.txt
+
+### minecraft install
+
+- sudo dpkg -i Minecraft.deb
+- sudo apt -f install
